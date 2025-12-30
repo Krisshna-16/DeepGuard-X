@@ -1,0 +1,6 @@
+# Add dependencies here
+opencv-python
+numpy
+streamlit
+librosa
+scipy
